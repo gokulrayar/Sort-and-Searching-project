@@ -1,0 +1,5 @@
+JoyBoy,class E
+gokul,class D
+virat,class C
+shanks,class B
+Newgate,class A

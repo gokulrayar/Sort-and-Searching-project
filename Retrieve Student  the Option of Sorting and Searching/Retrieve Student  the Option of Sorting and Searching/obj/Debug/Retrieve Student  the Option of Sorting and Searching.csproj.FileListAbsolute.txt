@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\bin\Debug\Retrieve Student  the Option of Sorting and Searching.exe.config
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\bin\Debug\Retrieve Student  the Option of Sorting and Searching.exe
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\bin\Debug\Retrieve Student  the Option of Sorting and Searching.pdb
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\obj\Debug\Retrieve Student  the Option of Sorting and Searching.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\obj\Debug\Retrieve Student  the Option of Sorting and Searching.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\obj\Debug\Retrieve Student  the Option of Sorting and Searching.exe
+C:\Users\rayar\source\repos\Retrieve Student  the Option of Sorting and Searching\Retrieve Student  the Option of Sorting and Searching\obj\Debug\Retrieve Student  the Option of Sorting and Searching.pdb
